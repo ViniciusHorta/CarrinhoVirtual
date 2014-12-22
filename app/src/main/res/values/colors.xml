@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryDarkColor">#FFBF360C</color>
+    <color name="primaryColor">#FFFF5722</color>
+    <color name="BgColor">#FFFF6E40</color>
+    <color name="primary">#FFFF9100</color>
+    <color name="primary_pressed">#FFFF9800</color>
+    <color name="ripple">#FFE65100</color>
+    <color name="text_inverter">#FFFFFFFF</color>
+    <color name="text">#FF3C3C3C</color>
+</resources>
